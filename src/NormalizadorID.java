@@ -1,4 +1,7 @@
+package src;
+
 public class NormalizadorID {
+
     
     public static void main(String[] args) {
         NormalizadorID normalizador = new NormalizadorID();
