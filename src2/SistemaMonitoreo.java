@@ -4,7 +4,7 @@ public class SistemaMonitoreo {
 
     public static void main(String[] args) {
 
-        EstacionClimatica estacion = new EstacionClimatica();
+        EstacionClimatico estacion = new EstacionClimatico();
 
         estacion.generarTemperaturas();
         estacion.mostrarTemperaturaMediodia();

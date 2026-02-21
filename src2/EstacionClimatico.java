@@ -1,11 +1,11 @@
 package src2;
 
-public class EstacionClimatica {
+public class EstacionClimatico {
 
     private double[] temperaturas;
 
     // Constructor
-    public EstacionClimatica() {
+    public EstacionClimatico() {
         temperaturas = new double[24];
     }
 
