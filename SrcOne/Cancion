@@ -1,0 +1,20 @@
+package scrOne;
+
+public class Cancion {
+
+    private String Titulo;
+    private double Duracion;
+
+    public Cancion(String titulo, double Duracion) {
+        this.Titulo = titulo;
+        this.Duracion = Duracion;
+    }
+
+    public String getTitulo() {
+        return Titulo;
+    }
+
+    public double getDuracion() {
+        return Duracion;
+    }
+}
