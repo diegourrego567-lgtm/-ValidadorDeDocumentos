@@ -3,12 +3,12 @@ package src8;
 import java.util.Queue;
 import java.util.LinkedList;
 
-public class Soporte {
+public class SistemaTicketsSoporte {
 
     private Queue<String> colaSoporte;
 
  
-    public Soporte() {
+    public SistemaTicketsSoporte() {
         colaSoporte = new LinkedList<>();
     }
 

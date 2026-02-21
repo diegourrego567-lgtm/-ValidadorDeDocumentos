@@ -3,12 +3,12 @@ package src9;
 import java.util.Map;
 import java.util.HashMap;
 
-public class Inventario {
+public class InventarioPorCodigo {
 
     private Map<String, String> inventario;
 
     
-    public Inventario() {
+    public InventarioPorCodigo() {
         inventario = new HashMap<>();
     }
 

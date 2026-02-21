@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Inventario almacen = new Inventario();
+        InventarioPorCodigo almacen = new InventarioPorCodigo();
 
         // Inserciones
         almacen.agregarProducto("A001", "Televisor Sony");

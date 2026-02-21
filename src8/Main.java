@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Soporte callCenter = new Soporte();
+        SistemaTicketsSoporte callCenter = new SistemaTicketsSoporte();
 
        
         callCenter.llegadaCliente("Cliente A");
